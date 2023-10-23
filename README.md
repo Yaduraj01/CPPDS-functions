@@ -14,3 +14,7 @@ The code demonstrates how function overloading allows you to create multiple fun
     c. Calculate the sum of `i` and `j` using the `add` function and store it in `k`.
     d. Print the value of `k`.
     e. Calculate the sum of `f1` and `f2` using the `add` function and print the result directly.
+
+## Output 
+![image](https://github.com/Yaduraj01/CPPDS-functions/assets/110488113/23cd7aa9-53ec-4605-a7b8-f8dfa475882f)
+
